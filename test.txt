@@ -25,7 +25,4 @@ abcdefg
 abcdef
 =======
 =======
-abcdef
->>>>>>> c07bd44... Initial commit
-=======
 =======
